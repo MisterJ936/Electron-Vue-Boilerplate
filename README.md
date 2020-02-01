@@ -1,18 +1,22 @@
-# elvue
+# Electron Vue Template
 
-## Project setup
+## Clone this Project and setup
+using this command will install the dependencies needed
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Serve for Development(Hot Reload)
 ```
-npm run serve
+npm run serve //this command runs the app in web form and can be opened using any browser
+npm run electron:serve //this command will run the app in electron app
 ```
 
-### Compiles and minifies for production
+### Compile Only The dist
+
 ```
-npm run build
+npm run build //this command only builds the index.html files inside a dist file
+npm run electron:build //this command will bundle the electron app using electron-builder
 ```
 
 ### Lints and fixes files
