@@ -1,4 +1,5 @@
 # Electron Vue Template
+This is used for starting a Vue-Cli projecj that can deploy as a website or deploy as a software using electron.
 
 ## Clone this Project and setup
 using this command will install the dependencies needed
