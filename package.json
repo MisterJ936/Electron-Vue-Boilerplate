@@ -2,7 +2,7 @@
   "name": "electron-vue-template",
   "description": "This is a ready made and ready set up for building cross platform app like desktop app using electron and vue . You can build only the web, and also can bundle electron This set up is for starting a project using electron and vue.",
   "author": "misterj936",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
