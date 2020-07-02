@@ -3,7 +3,6 @@ This is used for starting a Vue-Cli projecj that can deploy as a website or depl
 You can reuse this boilerplate using Vue as the front.
 
 ## Clone this Project and setup
-
 ```
 npm install
 // using this command will install the dependencies needed
@@ -37,16 +36,4 @@ npm run lint
 ```
 
 
-# Donation
-If you like the project, and want to support my career.  
-You can also give me coffee in my paypal  here -> [My Paypal](https://paypal.me/mrj936?locale.x=en_US)  
-or You can also give me coffee in my coins.ph here -> 0950-325-5547  
-or You can also give me coffee in my GCash here -> 0950-325-5547  
-or You can also give me coffee in my Bitcoin Wallet   
--> 3FypcDpjxKVdNumcCbmvuXyXf8BQfa7VRc
 
-I'm sorry for asking coffee,  
-life is really hard
-bills are getting higher.
-
-Thanks For The HElp :) LOVE YOU.
